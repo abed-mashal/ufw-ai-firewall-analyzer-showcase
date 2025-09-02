@@ -7,6 +7,11 @@ This project is essentially aimed to show a practical and low-cost way to add ho
 - Utilize **anomaly detection** (**Isolation Forest**) to point out **unusual IP** behavior
 - Provide both **technical** and **beginner friendly** explanations
 
+## Documentation
+
+- [Beginner Explainer](docs/beginner_explainer.md)
+- [Technical Explainer](docs/technical_notes.md)
+- [Startup Value](docs/startup_value.md)
 
 
 > Scope: This repo shares the firewall script, outputs (screenshots and a sanitized/blurred out report) and also selected code snippets. The full analyzer source is kept private. 
@@ -19,7 +24,7 @@ This project is essentially aimed to show a practical and low-cost way to add ho
 **Analyzer Run:**
 ![Analyzer Output](images/analyzer_output.png)
 
-**AI Report Snipper:**
+**AI Report Snippet:**
 ![AI Report](images/ai_report.png)
 
 **Example Report:**
